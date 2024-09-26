@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "超级大炮/Uber Cannon",
-		"ShortName": "超级大炮",
+		"ShortName": "Cannon",
 		"Color": "{default}",
 		"HammerID": 108,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
     {
 		"Name": "推力枪/Push Gun",
-		"ShortName": "推力枪",
+		"ShortName": "Push",
 		"Color": "{default}",
 		"HammerID": 755,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "喷火器/Flamethrower",
-		"ShortName": "喷火器",
+		"ShortName": "Flame",
 		"Color": "{default}",
 		"HammerID": 810,
 		"GlowColor": [255,255,255,255],
@@ -86,7 +86,7 @@
 	},
     {
 		"Name": "地雷/Explosive Mines",
-		"ShortName": "地雷",
+		"ShortName": "Mines",
 		"Color": "{default}",
 		"HammerID": 744,
 		"GlowColor": [255,255,255,255],
@@ -113,7 +113,7 @@
 	},
     {
 		"Name": "手雷/Grenade Spawner",
-		"ShortName": "手雷",
+		"ShortName": "Grenade",
 		"Color": "{default}",
 		"HammerID": 736,
 		"GlowColor": [255,255,255,255],
@@ -140,7 +140,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 752,
 		"GlowColor": [255,255,255,255],
@@ -167,7 +167,7 @@
 	},
     {
 		"Name": "乐高墙/Lego Maker",
-		"ShortName": "乐高墙",
+		"ShortName": "Wall",
 		"Color": "{default}",
 		"HammerID": 783,
 		"GlowColor": [255,255,255,255],
@@ -194,7 +194,7 @@
 	},
     {
 		"Name": "弹药箱/Ammo Box",
-		"ShortName": "弹药箱",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 2142,
 		"GlowColor": [255,255,255,255],
@@ -221,7 +221,7 @@
 	},
     {
 		"Name": "手炮/Hand Cannon",
-		"ShortName": "手炮",
+		"ShortName": "Cannon",
 		"Color": "{default}",
 		"HammerID": 2186,
 		"GlowColor": [255,255,255,255],
@@ -248,7 +248,7 @@
 	},
     {
 		"Name": "香蕉/Banana Gun",
-		"ShortName": "香蕉",
+		"ShortName": "Banana",
 		"Color": "{default}",
 		"HammerID": 2541,
 		"GlowColor": [255,255,255,255],

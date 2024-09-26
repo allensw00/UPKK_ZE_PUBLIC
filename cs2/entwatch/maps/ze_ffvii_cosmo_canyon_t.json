@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "终极",
-		"ShortName": "终极",
+		"Name": "终极/Ultima",
+		"ShortName": "Ultima",
 		"Color": "{pink}",
 		"HammerID": 3464,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "土",
-		"ShortName": "土",
+		"Name": "土/Earth",
+		"ShortName": "Earth",
 		"Color": "{pink}",
 		"HammerID": 1878,
 		"GlowColor": [255,255,255,255],
@@ -54,8 +54,8 @@
 		]
 	},
 	{
-		"Name": "ZM混乱",
-		"ShortName": "ZM混乱",
+		"Name": "ZM混乱/ZM Chaos",
+		"ShortName": "ZM Chaos",
 		"Color": "{pink}",
 		"HammerID": 4394,
 		"GlowColor": [255,255,255,255],
@@ -81,8 +81,8 @@
 		]
 	},
 	{
-		"Name": "火",
-		"ShortName": "火",
+		"Name": "火/Fire",
+		"ShortName": "Fire",
 		"Color": "{pink}",
 		"HammerID": 2552,
 		"GlowColor": [255,255,255,255],
@@ -108,8 +108,8 @@
 		]
 	},
 	{
-		"Name": "电",
-		"ShortName": "电",
+		"Name": "电/Electro",
+		"ShortName": "Electro",
 		"Color": "{pink}",
 		"HammerID": 2418,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
 	{
-		"Name": "浮毒",
-		"ShortName": "浮毒",
+		"Name": "浮毒/Bio",
+		"ShortName": "Bio",
 		"Color": "{pink}",
 		"HammerID": 4259,
 		"GlowColor": [255,255,255,255],
@@ -162,8 +162,8 @@
 		]
 	},
 	{
-		"Name": "风",
-		"ShortName": "风",
+		"Name": "风/Wind",
+		"ShortName": "Wind",
 		"Color": "{pink}",
 		"HammerID": 7475,
 		"GlowColor": [255,255,255,255],
@@ -189,8 +189,8 @@
 		]
 	},
 	{
-		"Name": "黑洞",
-		"ShortName": "黑洞",
+		"Name": "黑洞/Gravity",
+		"ShortName": "Gravity",
 		"Color": "{pink}",
 		"HammerID": 4775,
 		"GlowColor": [255,255,255,255],
@@ -216,8 +216,8 @@
 		]
 	},
 	{
-		"Name": "睡",
-		"ShortName": "睡",
+		"Name": "睡/Sleep",
+		"ShortName": "Sleep",
 		"Color": "{pink}",
 		"HammerID": 7519,
 		"GlowColor": [255,255,255,255],
@@ -243,8 +243,8 @@
 		]
 	},
 	{
-		"Name": "ZM毒",
-		"ShortName": "ZM毒",
+		"Name": "ZM毒/ZM Poison",
+		"ShortName": "ZM Bio",
 		"Color": "{pink}",
 		"HammerID": 7616,
 		"GlowColor": [255,255,255,255],
@@ -270,8 +270,8 @@
 		]
 	},
 	{
-		"Name": "不死鸟之尾",
-		"ShortName": "不死鸟之尾",
+		"Name": "不死鸟之尾/Potion",
+		"ShortName": "Potion",
 		"Color": "{pink}",
 		"HammerID": 3883,
 		"GlowColor": [255,255,255,255],
@@ -297,8 +297,8 @@
 		]
 	},
 	{
-		"Name": "治疗",
-		"ShortName": "治疗",
+		"Name": "治疗/Heal",
+		"ShortName": "Heal",
 		"Color": "{pink}",
 		"HammerID": 1995,
 		"GlowColor": [255,255,255,255],
@@ -324,8 +324,8 @@
 		]
 	},
 	{
-		"Name": "ZM冰",
-		"ShortName": "ZM冰",
+		"Name": "ZM冰/ZM Ice",
+		"ShortName": "ZM Ice",
 		"Color": "{pink}",
 		"HammerID": 3332,
 		"GlowColor": [255,255,255,255],
@@ -351,8 +351,8 @@
 		]
 	},
 	{
-		"Name": "ZM火",
-		"ShortName": "ZM火",
+		"Name": "ZM火/ZM Fire",
+		"ShortName": "ZM Fire",
 		"Color": "{pink}",
 		"HammerID": 7571,
 		"GlowColor": [255,255,255,255],
@@ -378,8 +378,8 @@
 		]
 	},
 	{
-		"Name": "ZM仙人掌",
-		"ShortName": "ZM仙人掌",
+		"Name": "ZM仙人掌/ZM Cactus",
+		"ShortName": "ZM Cactus",
 		"Color": "{green}",
 		"HammerID": 17789,
 		"GlowColor": [255,255,255,255],

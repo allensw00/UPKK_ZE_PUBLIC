@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "流沙权杖/Quicksand",
-		"ShortName": "流沙",
+		"ShortName": "Quicksand",
 		"Color": "{blue}",
 		"HammerID": 11145,
 		"GlowColor": [0,0,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "大地权杖/Earth",
-		"ShortName": "大地",
+		"ShortName": "Earth",
 		"Color": "{orange}",
 		"HammerID": 11116,
 		"GlowColor": [255,140,0,255],
@@ -55,7 +55,7 @@
 	},
 	{
 		"Name": "暴风权杖/Tornado",
-		"ShortName": "暴风",
+		"ShortName": "Tornado",
 		"Color": "{default}",
 		"HammerID": 11162,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
 	{
 		"Name": "烈火权杖/Fire",
-		"ShortName": "烈火",
+		"ShortName": "Fire",
 		"Color": "{red}",
 		"HammerID": 11184,
 		"GlowColor": [255,30,30,255],
@@ -109,7 +109,7 @@
 	},
 	{
 		"Name": "治愈权杖/Heal",
-		"ShortName": "治愈",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 11196,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
 	{
 		"Name": "沙暴权杖/SandStorm",
-		"ShortName": "沙尘暴",
+		"ShortName": "Sandstorm",
 		"Color": "{yellow}",
 		"HammerID": 11127,
 		"GlowColor": [199,223,7,255],
@@ -151,7 +151,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "终极",
+				"Name": "Ultima",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -163,7 +163,7 @@
 	},
 	{
 		"Name": "ZM 蚁狮/Antlion",
-		"ShortName": "ZM 蚁狮",
+		"ShortName": "ZM Antlion",
 		"Color": "{lime}",
 		"HammerID": 11895,
 		"GlowColor": [119,234,7,255],
@@ -199,7 +199,7 @@
 	},
 	{
 		"Name": "ZM 黑洞/ZM Dark",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Dark",
 		"Color": "{purple}",
 		"HammerID": 11854,
 		"GlowColor": [128,0,128,255],
@@ -226,7 +226,7 @@
 	},
 	{
 		"Name": "ZM 火/ZM Fire",
-		"ShortName": "ZM 火",
+		"ShortName": "ZM Fire",
 		"Color": "{darkorange}",
 		"HammerID": 11828,
 		"GlowColor": [240,94,35,255],

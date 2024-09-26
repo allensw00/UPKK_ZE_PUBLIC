@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "ZM 加速/Zombie Haste",
-		"ShortName": "ZM 加速",
+		"ShortName": "ZM Haste",
 		"Color": "{default}",
 		"HammerID": 738,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
     },
     {
 		"Name": "ZM 毒/Zombie Death",
-		"ShortName": "ZM 毒",
+		"ShortName": "ZM Death",
 		"Color": "{default}",
 		"HammerID": 732,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "ZM 诅咒/Zombie Curse",
-		"ShortName": "ZM 诅咒",
+		"ShortName": "ZM Curse",
 		"Color": "{default}",
 		"HammerID": 735,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "风1/Wind1",
-		"ShortName": "风1",
+		"ShortName": "Wind1",
 		"Color": "{default}",
 		"HammerID": 703,
 		"GlowColor": [255,255,255,255],
@@ -106,7 +106,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师风1",
+				"Name": "MasterWind1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -118,7 +118,7 @@
 	},
     {
 		"Name": "风2/Wind2",
-		"ShortName": "风2",
+		"ShortName": "Wind2",
 		"Color": "{default}",
 		"HammerID": 667,
 		"GlowColor": [255,255,255,255],
@@ -142,7 +142,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师风2",
+				"Name": "MasterWind2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -154,7 +154,7 @@
 	},
     {
 		"Name": "水1/Water 1",
-		"ShortName": "水1",
+		"ShortName": "Water1",
 		"Color": "{default}",
 		"HammerID": 1245,
 		"GlowColor": [255,255,255,255],
@@ -178,7 +178,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师水1",
+				"Name": "MasterWater1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -190,7 +190,7 @@
 	},
     {
 		"Name": "水2/Water 2",
-		"ShortName": "水2",
+		"ShortName": "Water2",
 		"Color": "{default}",
 		"HammerID": 1264,
 		"GlowColor": [255,255,255,255],
@@ -214,7 +214,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师水2",
+				"Name": "MasterWater2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -226,7 +226,7 @@
 	},
     {
 		"Name": "奶1/Heal 1",
-		"ShortName": "奶1",
+		"ShortName": "Heal1",
 		"Color": "{default}",
 		"HammerID": 1801,
 		"GlowColor": [255,255,255,255],
@@ -250,7 +250,7 @@
 				"CoolDown": 55
 			},
             {
-				"Name": "大师奶1",
+				"Name": "MasterHeal1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -262,7 +262,7 @@
 	},
     {
 		"Name": "奶2/Heal 2",
-		"ShortName": "奶2",
+		"ShortName": "Heal2",
 		"Color": "{default}",
 		"HammerID": 1594,
 		"GlowColor": [255,255,255,255],
@@ -286,7 +286,7 @@
 				"CoolDown": 55
 			},
             {
-				"Name": "大师奶2",
+				"Name": "MasterHeal2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -298,7 +298,7 @@
 	},
     {
 		"Name": "土1/Earth 1",
-		"ShortName": "土1",
+		"ShortName": "Earth1",
 		"Color": "{default}",
 		"HammerID": 1816,
 		"GlowColor": [255,255,255,255],
@@ -322,7 +322,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师土1",
+				"Name": "MasterEarth1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
@@ -334,7 +334,7 @@
 	},
     {
 		"Name": "土2/Earth 2",
-		"ShortName": "土2",
+		"ShortName": "Earth2",
 		"Color": "{default}",
 		"HammerID": 1603,
 		"GlowColor": [255,255,255,255],
@@ -358,7 +358,7 @@
 				"CoolDown": 50
 			},
             {
-				"Name": "大师土2",
+				"Name": "MasterEarth2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,

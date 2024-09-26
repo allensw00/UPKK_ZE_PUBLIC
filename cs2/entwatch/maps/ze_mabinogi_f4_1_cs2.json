@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "零/Zero",
-		"ShortName": "零",
+		"ShortName": "Zero",
 		"Color": "{default}",
 		"HammerID": 764,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "神之布里奥纳克/Brionac of God",
-		"ShortName": "神之布里奥纳克",
+		"ShortName": "God",
 		"Color": "{default}",
 		"HammerID": 890,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 895,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "剑/Sword",
-		"ShortName": "剑",
+		"ShortName": "Sword",
 		"Color": "{default}",
 		"HammerID": 1116,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "ZM 护盾/ZM Shield",
-		"ShortName": "ZM 护盾",
+		"ShortName": "ZM Shield",
 		"Color": "{default}",
 		"HammerID": 869,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "ZM 能量/ZM Energy",
-		"ShortName": "ZM 能量",
+		"ShortName": "ZM Energy",
 		"Color": "{default}",
 		"HammerID": 18,
 		"GlowColor": [255,255,255,255],

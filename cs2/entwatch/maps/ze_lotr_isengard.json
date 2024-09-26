@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "ZM 蜘蛛/ZM Spider",
-		"ShortName": "ZM 蜘蛛",
+		"ShortName": "ZM Spider",
 		"Color": "{default}",
 		"HammerID": 20309,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
     {
 		"Name": "树人/Ent",
-		"ShortName": "树人",
+		"ShortName": "Ent",
 		"Color": "{default}",
 		"HammerID": 20501,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 	},
     {
 		"Name": "障碍物/Barricade",
-		"ShortName": "障碍物",
+		"ShortName": "Barricade",
 		"Color": "{default}",
 		"HammerID": 20532,
 		"GlowColor": [255,255,255,255],
@@ -94,7 +94,7 @@
 	},
     {
 		"Name": "甘道夫/Gandalf",
-		"ShortName": "甘道夫",
+		"ShortName": "Gandalf",
 		"Color": "{default}",
 		"HammerID": 20790,
 		"GlowColor": [255,255,255,255],
@@ -125,7 +125,7 @@
 	},
     {
 		"Name": "治疗/Heal",
-		"ShortName": "治疗",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 20877,
 		"GlowColor": [255,255,255,255],
@@ -156,7 +156,7 @@
 	},
     {
 		"Name": "火把/Torch",
-		"ShortName": "火把",
+		"ShortName": "Torch",
 		"Color": "{default}",
 		"HammerID": 2643,
 		"GlowColor": [255,255,255,255],

@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "火/Fire",
-		"ShortName": "火",
+		"ShortName": "Fire",
 		"Color": "{default}",
 		"HammerID": 2246,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
     {
 		"Name": "冰/Freeze",
-		"ShortName": "冰",
+		"ShortName": "Freeze",
 		"Color": "{default}",
 		"HammerID": 3588,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 3591,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "风/Tornado",
-		"ShortName": "风",
+		"ShortName": "Tornado",
 		"Color": "{default}",
 		"HammerID": 3608,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "土/Earth",
-		"ShortName": "土",
+		"ShortName": "Earth",
 		"Color": "{default}",
 		"HammerID": 3617,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "终极/Ultimate",
-		"ShortName": "终极",
+		"ShortName": "Ultimate",
 		"Color": "{default}",
 		"HammerID": 3984,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "ZM 火/ZM Fire",
-		"ShortName": "ZM 火",
+		"ShortName": "ZM Fire",
 		"Color": "{default}",
 		"HammerID": 3641,
 		"GlowColor": [255,255,255,255],
@@ -190,7 +190,7 @@
 	},
     {
 		"Name": "ZM 黑洞/ZM Gravity",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Gravity",
 		"Color": "{default}",
 		"HammerID": 3660,
 		"GlowColor": [255,255,255,255],
@@ -217,7 +217,7 @@
 	},
     {
 		"Name": "ZM 冰/ZM Freeze",
-		"ShortName": "ZM 冰",
+		"ShortName": "ZM Freeze",
 		"Color": "{default}",
 		"HammerID": 3689,
 		"GlowColor": [255,255,255,255],
@@ -244,7 +244,7 @@
 	},
     {
 		"Name": "格拉斯贝恩/ZM Skin 1",
-		"ShortName": "格拉斯贝恩",
+		"ShortName": "ZM Skin 1",
 		"Color": "{default}",
 		"HammerID": 3693,
 		"GlowColor": [255,255,255,255],
@@ -271,7 +271,7 @@
 	},
     {
 		"Name": "科若姆.科尔瓦哈/ZM Skin 2",
-		"ShortName": "科若姆.科尔瓦哈",
+		"ShortName": "ZM Skin 2",
 		"Color": "{default}",
 		"HammerID": 3723,
 		"GlowColor": [255,255,255,255],

@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "治疗法杖/Heal",
-		"ShortName": "奶杖",
+		"ShortName": "Heal",
 		"Color": "{blue}",
 		"HammerID": 401,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "寒冰法杖/ice",
-		"ShortName": "冰杖",
+		"ShortName": "Ice",
 		"Color": "{blue}",
 		"HammerID": 225,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
 	{
 		"Name": "上古卷轴 Lv4/Elder Scroll Lv4",
-		"ShortName": "上古卷轴 Lv4",
+		"ShortName": "Scroll Lv4",
 		"Color": "{blue}",
 		"HammerID": 406,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
 	{
 		"Name": "上古卷轴 Lv5/Elder Scroll Lv5",
-		"ShortName": "上古卷轴 Lv5",
+		"ShortName": "Scroll Lv5",
 		"Color": "{blue}",
 		"HammerID": 723,
 		"GlowColor": [255,255,255,255],
@@ -108,8 +108,8 @@
 		]
 	},
 	{
-		"Name": "小法",
-		"ShortName": "小法",
+		"Name": "小法/little Mage",
+		"ShortName": "L.Mage",
 		"Color": "{blue}",
 		"HammerID": 29494,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
 	{
-		"Name": "大卫",
-		"ShortName": "大卫",
+		"Name": "大卫/David",
+		"ShortName": "David",
 		"Color": "{blue}",
 		"HammerID": 29435,
 		"GlowColor": [255,255,255,255],
@@ -162,8 +162,8 @@
 		]
 	},
 	{
-		"Name": "魔神",
-		"ShortName": "魔神",
+		"Name": "DemonGod",
+		"ShortName": "Demon",
 		"Color": "{blue}",
 		"HammerID": 29402,
 		"GlowColor": [255,255,255,255],
@@ -190,8 +190,8 @@
 		]
 	},
 	{
-		"Name": "大法",
-		"ShortName": "大法",
+		"Name": "Large Mage",
+		"ShortName": "L.Mage",
 		"Color": "{blue}",
 		"HammerID": 29372,
 		"GlowColor": [255,255,255,255],
@@ -218,8 +218,8 @@
 		]
 	},
 	{
-		"Name": "夜莺",
-		"ShortName": "夜莺",
+		"Name": "夜莺/Nightingale",
+		"ShortName": "Nightingale",
 		"Color": "{blue}",
 		"HammerID": 29345,
 		"GlowColor": [255,255,255,255],
@@ -246,8 +246,8 @@
 		]
 	},
 {
-		"Name": "巨人",
-		"ShortName": "巨人",
+		"Name": "巨人/Giant",
+		"ShortName": "Giant",
 		"Color": "{pink}",
 		"HammerID": 29267,
 		"GlowColor": [255,255,255,255],
@@ -274,8 +274,8 @@
 		]
 	},
 {
-		"Name": "龙祭祀",
-		"ShortName": "龙祭祀",
+		"Name": "龙祭祀/Dragonborn Sacrifice",
+		"ShortName": "DSacrifice",
 		"Color": "{pink}",
 		"HammerID": 29313,
 		"GlowColor": [255,255,255,255],
@@ -302,8 +302,8 @@
 		]
 	},
 {
-		"Name": "猴子",
-		"ShortName": "猴子",
+		"Name": "猴子/Monkey",
+		"ShortName": "Monkey",
 		"Color": "{pink}",
 		"HammerID": 29179,
 		"GlowColor": [255,255,255,255],
@@ -330,8 +330,8 @@
 		]
 	},
 {
-		"Name": "狼人",
-		"ShortName": "狼人",
+		"Name": "狼人/Werewolf",
+		"ShortName": "Werewolf",
 		"Color": "{pink}",
 		"HammerID": 29224,
 		"GlowColor": [255,255,255,255],

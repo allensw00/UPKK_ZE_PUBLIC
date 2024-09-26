@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "向日葵",
-		"ShortName": "向日葵",
+		"Name": "向日葵/Sunflower",
+		"ShortName": "Sunflower",
 		"Color": "{default}",
 		"HammerID": 498,
 		"GlowColor": [0,0,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "豌豆射手/Peashooter",
-		"ShortName": "豌豆射手",
+		"ShortName": "Pshooter",
 		"Color": "{default}",
 		"HammerID": 502,
 		"GlowColor": [0,0,255,255],
@@ -55,7 +55,7 @@
 	},
 	{
 		"Name": "坚果墙/Wall nut",
-		"ShortName": "坚果墙",
+		"ShortName": "Walnut",
 		"Color": "{default}",
 		"HammerID": 516,
 		"GlowColor": [0,0,255,255],
@@ -82,7 +82,7 @@
 	},
 	{
 		"Name": "土豆雷/Potato Mine",
-		"ShortName": "土豆雷",
+		"ShortName": "Mine",
 		"Color": "{default}",
 		"HammerID": 525,
 		"GlowColor": [0,0,255,255],
@@ -109,7 +109,7 @@
 	},
 	{
 		"Name": "毁灭菇/Doom shroom",
-		"ShortName": "毁灭菇",
+		"ShortName": "Doom",
 		"Color": "{default}",
 		"HammerID": 537,
 		"GlowColor": [0,0,255,255],
@@ -136,7 +136,7 @@
 	},
 	{
 		"Name": "寒冰菇/Ice shroom",
-		"ShortName": "寒冰菇",
+		"ShortName": "Ice",
 		"Color": "{default}",
 		"HammerID": 645,
 		"GlowColor": [0,0,255,255],
@@ -163,7 +163,7 @@
 	},
 	{
 		"Name": "包裹/Package",
-		"ShortName": "包裹",
+		"ShortName": "Package",
 		"Color": "{default}",
 		"HammerID": 957,
 		"GlowColor": [0,0,255,255],
@@ -190,7 +190,7 @@
 	},
 	{
 		"Name": "睡莲/Lily Pad",
-		"ShortName": "睡莲",
+		"ShortName": "LilyPad",
 		"Color": "{default}",
 		"HammerID": 1561,
 		"GlowColor": [0,0,255,255],
@@ -217,7 +217,7 @@
 	},
 	{
 		"Name": "大嘴花/Chomper",
-		"ShortName": "大嘴花",
+		"ShortName": "Chomper",
 		"Color": "{default}",
 		"HammerID": 1585,
 		"GlowColor": [0,0,255,255],
@@ -244,7 +244,7 @@
 	},
 	{
 		"Name": "西瓜投手/Melon pult",
-		"ShortName": "西瓜投手",
+		"ShortName": "Melon",
 		"Color": "{default}",
 		"HammerID": 2884,
 		"GlowColor": [0,0,255,255],
@@ -271,7 +271,7 @@
 	},
 	{
 		"Name": "三叶草/Blover",
-		"ShortName": "三叶草",
+		"ShortName": "Blover",
 		"Color": "{default}",
 		"HammerID": 2902,
 		"GlowColor": [0,0,255,255],
@@ -298,7 +298,7 @@
 	},
 	{
 		"Name": "寒冰射手/Snow Pea",
-		"ShortName": "寒冰射手",
+		"ShortName": "SnowPea",
 		"Color": "{default}",
 		"HammerID": 3824,
 		"GlowColor": [0,0,255,255],
@@ -325,7 +325,7 @@
 	},
 	{
 		"Name": "火爆辣椒/Jalapeno",
-		"ShortName": "火爆辣椒",
+		"ShortName": "Jalapeno",
 		"Color": "{default}",
 		"HammerID": 3878,
 		"GlowColor": [0,0,255,255],
@@ -352,7 +352,7 @@
 	},
 	{
 		"Name": "玉米投手/Kernel pult",
-		"ShortName": "玉米投手",
+		"ShortName": "Kernel",
 		"Color": "{default}",
 		"HammerID": 4171,
 		"GlowColor": [0,0,255,255],
@@ -379,7 +379,7 @@
 	},
 	{
 		"Name": "西瓜投手/Melon pult",
-		"ShortName": "西瓜投手",
+		"ShortName": "Melon",
 		"Color": "{default}",
 		"HammerID": 4230,
 		"GlowColor": [0,0,255,255],
@@ -406,7 +406,7 @@
 	},
 	{
 		"Name": "大喷菇/Fume shroom",
-		"ShortName": "大喷菇",
+		"ShortName": "Fume",
 		"Color": "{default}",
 		"HammerID": 4766,
 		"GlowColor": [0,0,255,255],
@@ -433,7 +433,7 @@
 	},
 	{
 		"Name": "铁栅门僵尸/Screen Door Zombie",
-		"ShortName": "铁栅门僵尸",
+		"ShortName": "ZM Gate",
 		"Color": "{default}",
 		"HammerID": 560,
 		"GlowColor": [0,0,255,255],
@@ -460,7 +460,7 @@
 	},
 	{
 		"Name": "读报僵尸/Newspaper Zombie",
-		"ShortName": "读报僵尸",
+		"ShortName": "ZM News",
 		"Color": "{default}",
 		"HammerID": 564,
 		"GlowColor": [0,0,255,255],
@@ -487,7 +487,7 @@
 	},
 	{
 		"Name": "雪橇车僵尸/Zomboni",
-		"ShortName": "雪橇车僵尸",
+		"ShortName": "ZM Zomboni",
 		"Color": "{default}",
 		"HammerID": 570,
 		"GlowColor": [0,0,255,255],
@@ -514,7 +514,7 @@
 	},
 	{
 		"Name": "豌豆射手僵尸/Peashooter Zombie",
-		"ShortName": "豌豆射手僵尸",
+		"ShortName": "ZM Pshoot",
 		"Color": "{default}",
 		"HammerID": 669,
 		"GlowColor": [0,0,255,255],
@@ -541,7 +541,7 @@
 	},
 	{
 		"Name": "玩偶匣僵尸/Jack in the Box Zombie",
-		"ShortName": "玩偶匣僵尸",
+		"ShortName": "ZM Jack",
 		"Color": "{default}",
 		"HammerID": 726,
 		"GlowColor": [0,0,255,255],
@@ -568,7 +568,7 @@
 	},
 	{
 		"Name": "旗帜僵尸/Flag Zombie",
-		"ShortName": "旗帜僵尸",
+		"ShortName": "ZM Flag",
 		"Color": "{default}",
 		"HammerID": 4214,
 		"GlowColor": [0,0,255,255],

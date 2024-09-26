@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 532,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
     {
 		"Name": "弹药/Ammo",
-		"ShortName": "弹药",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 535,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 	},
     {
 		"Name": "激光/Beam",
-		"ShortName": "激光",
+		"ShortName": "Beam",
 		"Color": "{default}",
 		"HammerID": 652,
 		"GlowColor": [255,255,255,255],
@@ -94,7 +94,7 @@
 	},
     {
 		"Name": "风/Wind",
-		"ShortName": "风",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 656,
 		"GlowColor": [255,255,255,255],
@@ -156,7 +156,7 @@
 	},
     {
 		"Name": "减速带/Slower Sphere",
-		"ShortName": "减速带",
+		"ShortName": "Slow",
 		"Color": "{default}",
 		"HammerID": 853,
 		"GlowColor": [255,255,255,255],
@@ -187,7 +187,7 @@
 	},
     {
 		"Name": "火马桶/Fire Toilet",
-		"ShortName": "火马桶",
+		"ShortName": "Fire",
 		"Color": "{default}",
 		"HammerID": 931,
 		"GlowColor": [255,255,255,255],
@@ -218,7 +218,7 @@
 	},
     {
 		"Name": "冰马桶/Ice Toilet",
-		"ShortName": "冰马桶",
+		"ShortName": "Ice",
 		"Color": "{default}",
 		"HammerID": 936,
 		"GlowColor": [255,255,255,255],
@@ -249,7 +249,7 @@
 	},
     {
 		"Name": "电马桶/Electric Toilet",
-		"ShortName": "电马桶",
+		"ShortName": "Electro",
 		"Color": "{default}",
 		"HammerID": 941,
 		"GlowColor": [255,255,255,255],
@@ -280,7 +280,7 @@
 	},
     {
 		"Name": "毒马桶/Poison Toilet",
-		"ShortName": "毒马桶",
+		"ShortName": "Poison",
 		"Color": "{default}",
 		"HammerID": 950,
 		"GlowColor": [255,255,255,255],
@@ -310,8 +310,8 @@
 		]
 	},
     {
-		"Name": "黑洞马桶/Gravity Toile",
-		"ShortName": "黑洞马桶",
+		"Name": "黑洞马桶/Gravity Toilet",
+		"ShortName": "Gravity",
 		"Color": "{default}",
 		"HammerID": 955,
 		"GlowColor": [255,255,255,255],
@@ -342,7 +342,7 @@
 	},
     {
 		"Name": "土马桶/Earth Toilet",
-		"ShortName": "土马桶",
+		"ShortName": "Earth",
 		"Color": "{default}",
 		"HammerID": 961,
 		"GlowColor": [255,255,255,255],
@@ -373,7 +373,7 @@
 	},
     {
 		"Name": "水马桶/Water Toilet",
-		"ShortName": "水马桶",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 966,
 		"GlowColor": [255,255,255,255],
@@ -404,7 +404,7 @@
 	},
     {
 		"Name": "风马桶/Wind Toilet",
-		"ShortName": "风马桶",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 975,
 		"GlowColor": [255,255,255,255],
@@ -435,7 +435,7 @@
 	},
     {
 		"Name": "ZM 黑洞/Zombie Gravity",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Gravity",
 		"Color": "{default}",
 		"HammerID": 548,
 		"GlowColor": [255,255,255,255],
@@ -466,7 +466,7 @@
 	},
     {
 		"Name": "ZM 治疗/Zombie Heal",
-		"ShortName": "ZM 治疗",
+		"ShortName": "ZM Heal",
 		"Color": "{default}",
 		"HammerID": 569,
 		"GlowColor": [255,255,255,255],

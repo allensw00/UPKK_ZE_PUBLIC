@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "红色火球/Red Fireball",
-		"ShortName": "红色火球",
+		"ShortName": "Red",
 		"Color": "{default}",
 		"HammerID": 36976,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "绿色火球/Green Fireball",
-		"ShortName": "绿色火球",
+		"ShortName": "Green",
 		"Color": "{default}",
 		"HammerID": 37003,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
 	{
 		"Name": "蓝色火球/Blue Fireball",
-		"ShortName": "蓝色火球",
+		"ShortName": "Blue",
 		"Color": "{default}",
 		"HammerID": 37092,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
 	{
 		"Name": "黄色火球/Yellow Fireball",
-		"ShortName": "黄色火球",
+		"ShortName": "Yellow",
 		"Color": "{default}",
 		"HammerID": 37110,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
 	{
 		"Name": "锤子/Hammer",
-		"ShortName": "锤子",
+		"ShortName": "Hammer",
 		"Color": "{default}",
 		"HammerID": 41946,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
 	{
 		"Name": "传送/Warp",
-		"ShortName": "传送",
+		"ShortName": "Warp",
 		"Color": "{default}",
 		"HammerID": 47686,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
 	{
 		"Name": "战利品/Loot",
-		"ShortName": "战利品",
+		"ShortName": "Loot",
 		"Color": "{default}",
 		"HammerID": 47815,
 		"GlowColor": [255,255,255,255],
@@ -190,7 +190,7 @@
 	},
 	{
 		"Name": "火墙/Firewall",
-		"ShortName": "火墙",
+		"ShortName": "Firewall",
 		"Color": "{default}",
 		"HammerID": 47995,
 		"GlowColor": [255,255,255,255],
@@ -217,7 +217,7 @@
 	},
 	{
 		"Name": "水仙/Water Nymph",
-		"ShortName": "水仙",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 48185,
 		"GlowColor": [255,255,255,255],
@@ -244,7 +244,7 @@
 	},
 	{
 		"Name": "钢管/metal pipe",
-		"ShortName": "钢管",
+		"ShortName": "Pipe",
 		"Color": "{default}",
 		"HammerID": 48636,
 		"GlowColor": [255,255,255,255],
@@ -271,7 +271,7 @@
 	},
 	{
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 36459,
 		"GlowColor": [255,255,255,255],
@@ -298,7 +298,7 @@
 	},
 	{
 		"Name": "火焰/Flame",
-		"ShortName": "火焰",
+		"ShortName": "Flame",
 		"Color": "{default}",
 		"HammerID": 36478,
 		"GlowColor": [255,255,255,255],
@@ -325,7 +325,7 @@
 	},
 	{
 		"Name": "ZM 黑洞/Zombie Gravity",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Gravity",
 		"Color": "{default}",
 		"HammerID": 41673,
 		"GlowColor": [255,255,255,255],
@@ -352,7 +352,7 @@
 	},
 	{
 		"Name": "ZM 奶/Zombie Heal",
-		"ShortName": "ZM 奶",
+		"ShortName": "ZM Heal",
 		"Color": "{default}",
 		"HammerID": 41694,
 		"GlowColor": [255,255,255,255],
@@ -379,7 +379,7 @@
 	},
 	{
 		"Name": "ZM 飞行/Zombie Flight",
-		"ShortName": "ZM 飞行",
+		"ShortName": "ZM Flight",
 		"Color": "{default}",
 		"HammerID": 47771,
 		"GlowColor": [255,255,255,255],
@@ -406,7 +406,7 @@
 	},
 	{
 		"Name": "ZM 火球/Zombie Fireball",
-		"ShortName": "ZM 火球",
+		"ShortName": "ZM Fireball",
 		"Color": "{default}",
 		"HammerID": 47790,
 		"GlowColor": [255,255,255,255],

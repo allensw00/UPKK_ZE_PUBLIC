@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "重甲兵/Armor",
-		"ShortName": "重甲兵",
+		"ShortName": "Armor",
 		"Color": "{default}",
 		"HammerID": 145,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
     {
 		"Name": "旗帜/Flag",
-		"ShortName": "旗帜",
+		"ShortName": "Flag",
 		"Color": "{default}",
 		"HammerID": 901,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 	},
     {
 		"Name": "骑兵/Horse",
-		"ShortName": "骑兵",
+		"ShortName": "Horse",
 		"Color": "{default}",
 		"HammerID": 675,
 		"GlowColor": [255,255,255,255],
@@ -93,8 +93,8 @@
 		]
 	},
     {
-		"Name": "障碍物 木箱/Barricade",
-		"ShortName": "障碍物 木箱",
+		"Name": "障碍物 木箱/Barricade Box",
+		"ShortName": "Box",
 		"Color": "{default}",
 		"HammerID": 749,
 		"GlowColor": [255,255,255,255],
@@ -124,8 +124,8 @@
 		]
 	},
     {
-		"Name": "障碍物 桌子/Barricade",
-		"ShortName": "障碍物 桌子",
+		"Name": "障碍物 桌子/Barricade Table",
+		"ShortName": "Table",
 		"Color": "{default}",
 		"HammerID": 753,
 		"GlowColor": [255,255,255,255],
@@ -155,8 +155,8 @@
 		]
 	},
     {
-		"Name": "障碍物 木桶/Barricade",
-		"ShortName": "障碍物 木桶",
+		"Name": "障碍物 木桶/Barricade Barrel",
+		"ShortName": "Barrel",
 		"Color": "{default}",
 		"HammerID": 750,
 		"GlowColor": [255,255,255,255],
@@ -186,8 +186,8 @@
 		]
 	},
     {
-		"Name": "障碍物 大圆石/Barricade",
-		"ShortName": "障碍物 大圆石",
+		"Name": "障碍物 大圆石/Barricade Sphere",
+		"ShortName": "Sphere",
 		"Color": "{default}",
 		"HammerID": 751,
 		"GlowColor": [255,255,255,255],
@@ -217,8 +217,8 @@
 		]
 	},
     {
-		"Name": "障碍物 巨石/Barricade",
-		"ShortName": "障碍物 巨石",
+		"Name": "障碍物 巨石/Barricade Rock",
+		"ShortName": "Rock",
 		"Color": "{default}",
 		"HammerID": 754,
 		"GlowColor": [255,255,255,255],
@@ -248,8 +248,8 @@
 		]
 	},
     {
-		"Name": "障碍物 干草包/Barricade",
-		"ShortName": "障碍物 干草包",
+		"Name": "障碍物 干草包/Barricade Hey Bale",
+		"ShortName": "Hey Bale",
 		"Color": "{default}",
 		"HammerID": 752,
 		"GlowColor": [255,255,255,255],
@@ -310,8 +310,8 @@
 		]
 	},
     {
-		"Name": "障碍物 木筐/Barricade",
-		"ShortName": "障碍物 木筐",
+		"Name": "障碍物 木筐/Barricade WoodBasket",
+		"ShortName": "Basket",
 		"Color": "{default}",
 		"HammerID": 756,
 		"GlowColor": [255,255,255,255],
@@ -341,8 +341,8 @@
 		]
 	},
     {
-		"Name": "障碍物 栅栏/Barricade",
-		"ShortName": "障碍物 栅栏",
+		"Name": "障碍物 栅栏/Barricade Fence",
+		"ShortName": "Fence",
 		"Color": "{default}",
 		"HammerID": 757,
 		"GlowColor": [255,255,255,255],
@@ -372,8 +372,8 @@
 		]
 	},
     {
-		"Name": "障碍物 书架/Barricade",
-		"ShortName": "障碍物 书架",
+		"Name": "障碍物 书架/Barricade BookShelf",
+		"ShortName": "BookShelf",
 		"Color": "{default}",
 		"HammerID": 758,
 		"GlowColor": [255,255,255,255],
@@ -403,8 +403,8 @@
 		]
 	},
     {
-		"Name": "障碍物 长凳/Barricade",
-		"ShortName": "障碍物 长凳",
+		"Name": "障碍物 长凳/Barricade Bench",
+		"ShortName": "Bench",
 		"Color": "{default}",
 		"HammerID": 759,
 		"GlowColor": [255,255,255,255],
@@ -434,8 +434,8 @@
 		]
 	},
     {
-		"Name": "障碍物 坐便器/Barricade",
-		"ShortName": "障碍物 坐便器",
+		"Name": "障碍物 坐便器/Barricade Toilet",
+		"ShortName": "Toilet",
 		"Color": "{default}",
 		"HammerID": 760,
 		"GlowColor": [255,255,255,255],
@@ -466,7 +466,7 @@
 	},
     {
 		"Name": "火把/Torch",
-		"ShortName": "火把",
+		"ShortName": "Torch",
 		"Color": "{default}",
 		"HammerID": 731,
 		"GlowColor": [255,255,255,255],
@@ -527,8 +527,8 @@
 		]
 	},
     {
-		"Name": "障碍物 炸药桶/Barricade",
-		"ShortName": "障碍物 炸药桶",
+		"Name": "障碍物 炸药桶/Barricade Explosive",
+		"ShortName": "ExploProp",
 		"Color": "{default}",
 		"HammerID": 736,
 		"GlowColor": [255,255,255,255],
@@ -559,7 +559,7 @@
 	},
     {
 		"Name": "弹药桶/Ammo Barrel",
-		"ShortName": "弹药桶",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 351,
 		"GlowColor": [255,255,255,255],
@@ -590,7 +590,7 @@
 	},
     {
 		"Name": "甘道夫/Gandalf",
-		"ShortName": "甘道夫",
+		"ShortName": "Gandalf",
 		"Color": "{default}",
 		"HammerID": 683,
 		"GlowColor": [255,255,255,255],
@@ -621,7 +621,7 @@
 	},
     {
 		"Name": "白骑高达/The White Knight",
-		"ShortName": "白骑高达",
+		"ShortName": "Knight",
 		"Color": "{default}",
 		"HammerID": 695,
 		"GlowColor": [255,255,255,255],
@@ -652,7 +652,7 @@
 	},
     {
 		"Name": "油/Oil Vase",
-		"ShortName": "油",
+		"ShortName": "Oil",
 		"Color": "{default}",
 		"HammerID": 865,
 		"GlowColor": [255,255,255,255],
@@ -683,7 +683,7 @@
 	},
     {
 		"Name": "ZM 旗帜/Zombie Totem",
-		"ShortName": "ZM 旗帜",
+		"ShortName": "ZM Totem",
 		"Color": "{default}",
 		"HammerID": 900,
 		"GlowColor": [255,255,255,255],
@@ -714,7 +714,7 @@
 	},
     {
 		"Name": "ZM 戒灵/Zombie Nazgul",
-		"ShortName": "ZM 戒灵",
+		"ShortName": "ZM Nazgul",
 		"Color": "{default}",
 		"HammerID": 395,
 		"GlowColor": [255,255,255,255],
@@ -745,7 +745,7 @@
 	},
     {
 		"Name": "ZM 巨魔/Zombie Troll",
-		"ShortName": "ZM 巨魔",
+		"ShortName": "ZM Troll",
 		"Color": "{default}",
 		"HammerID": 348,
 		"GlowColor": [255,255,255,255],
@@ -776,7 +776,7 @@
 	},
     {
 		"Name": "ZM 梯子/Zombie Ladder",
-		"ShortName": "ZM 梯子",
+		"ShortName": "ZM Ladder",
 		"Color": "{default}",
 		"HammerID": 157,
 		"GlowColor": [255,255,255,255],
@@ -807,7 +807,7 @@
 	},
     {
 		"Name": "ZM 梯子/Zombie Ladder",
-		"ShortName": "ZM 梯子",
+		"ShortName": "ZM Ladder",
 		"Color": "{default}",
 		"HammerID": 167,
 		"GlowColor": [255,255,255,255],
@@ -838,7 +838,7 @@
 	},
     {
 		"Name": "ZM 炎魔/Zombie Balrog",
-		"ShortName": "ZM 炎魔",
+		"ShortName": "ZM Balrog",
 		"Color": "{default}",
 		"HammerID": 716,
 		"GlowColor": [255,255,255,255],

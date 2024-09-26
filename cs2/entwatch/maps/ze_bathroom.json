@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "海绵墙/Sponge builder",
-		"ShortName": "海绵墙",
+		"ShortName": "Sponge",
 		"Color": "{default}",
 		"HammerID": 1589,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "捕鼠夹/Mouse trap",
-		"ShortName": "捕鼠夹",
+		"ShortName": "Trap",
 		"Color": "{default}",
 		"HammerID": 1793,
 		"GlowColor": [255,255,255,255],

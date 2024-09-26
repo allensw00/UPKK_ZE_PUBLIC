@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "逝者的太刀",	
-		"ShortName": "太刀",
+		"Name": "逝者的太刀/Berserker Blade",	
+		"ShortName": "Blade",
 		"Color": "{default}",
 		"HammerID": 11479,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "虹锥",
-		"ShortName": "墙",
+		"Name": "虹锥/Wall",
+		"ShortName": "Wall",
 		"Color": "{default}",
 		"HammerID": 6823,
 		"GlowColor": [255,255,255,255],

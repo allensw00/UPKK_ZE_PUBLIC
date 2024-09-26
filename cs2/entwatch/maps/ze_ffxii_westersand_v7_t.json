@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "水",
-		"ShortName": "水",
+		"Name": "水/Water",
+		"ShortName": "Water",
 		"Color": "{pink}",
 		"HammerID": 796,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "电",
-		"ShortName": "电",
+		"Name": "电/Electro",
+		"ShortName": "Electro",
 		"Color": "{pink}",
 		"HammerID": 828,
 		"GlowColor": [255,255,255,255],
@@ -54,8 +54,8 @@
 		]
 	},
 	{
-		"Name": "火",
-		"ShortName": "火",
+		"Name": "火/Fire",
+		"ShortName": "Fire",
 		"Color": "{pink}",
 		"HammerID": 803,
 		"GlowColor": [255,255,255,255],
@@ -81,8 +81,8 @@
 		]
 	},
 	{
-		"Name": "终极",
-		"ShortName": "终极",
+		"Name": "终极/Ultima",
+		"ShortName": "Ultima",
 		"Color": "{pink}",
 		"HammerID": 816,
 		"GlowColor": [255,255,255,255],
@@ -108,8 +108,8 @@
 		]
 	},
 	{
-		"Name": "土",
-		"ShortName": "土",
+		"Name": "土/Earth",
+		"ShortName": "Earth",
 		"Color": "{pink}",
 		"HammerID": 823,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
 	{
-		"Name": "奶",
-		"ShortName": "奶",
+		"Name": "奶/Heal",
+		"ShortName": "Heal",
 		"Color": "{pink}",
 		"HammerID": 818,
 		"GlowColor": [255,255,255,255],
@@ -162,8 +162,8 @@
 		]
 	},
 	{
-		"Name": "风",
-		"ShortName": "风",
+		"Name": "风/Wind",
+		"ShortName": "Wind",
 		"Color": "{pink}",
 		"HammerID": 838,
 		"GlowColor": [255,255,255,255],
@@ -189,8 +189,8 @@
 		]
 	},
 	{
-		"Name": "ZM致盲",
-		"ShortName": "ZM致盲",
+		"Name": "ZM致盲/ZM Blind",
+		"ShortName": "ZM Blind",
 		"Color": "{pink}",
 		"HammerID": 486,
 		"GlowColor": [255,255,255,255],
@@ -216,8 +216,8 @@
 		]
 	},
 	{
-		"Name": "ZM隐身",
-		"ShortName": "ZM隐身",
+		"Name": "ZM隐身/ZM Stealth",
+		"ShortName": "ZM Stealth",
 		"Color": "{pink}",
 		"HammerID": 1078,
 		"GlowColor": [255,255,255,255],
@@ -243,8 +243,8 @@
 		]
 	},
 	{
-		"Name": "ZM秒杀",
-		"ShortName": "ZM秒杀",
+		"Name": "ZM秒杀/ZM Killer",
+		"ShortName": "ZM Killer",
 		"Color": "{pink}",
 		"HammerID": 1070,
 		"GlowColor": [255,255,255,255],
@@ -270,8 +270,8 @@
 		]
 	},
 	{
-		"Name": "ZM黑洞",
-		"ShortName": "ZM黑洞",
+		"Name": "ZM黑洞/ZM Gravity",
+		"ShortName": "ZM Gravity",
 		"Color": "{pink}",
 		"HammerID": 464,
 		"GlowColor": [255,255,255,255],
@@ -297,8 +297,8 @@
 		]
 	},
 	{
-		"Name": "ZM陆行鸟",
-		"ShortName": "ZM陆行鸟",
+		"Name": "ZM陆行鸟/ZM Chocobo",
+		"ShortName": "ZM Chocobo",
 		"Color": "{pink}",
 		"HammerID": 1354,
 		"GlowColor": [255,255,255,255],

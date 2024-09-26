@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "1号光炮",	
-		"ShortName": "1号光炮",
+		"Name": "1号光炮/Cannon 1",	
+		"ShortName": "Cannon 1",
 		"Color": "{default}",
 		"HammerID": 5082,
 		"GlowColor": [255,255,255,255],
@@ -36,8 +36,8 @@
 		]
 	},
 	{
-		"Name": "2号光炮",	
-		"ShortName": "2号光炮",
+		"Name": "2号光炮/Cannon 2",	
+		"ShortName": "Cannon 2",
 		"Color": "{default}",
 		"HammerID": 4712,
 		"GlowColor": [255,255,255,255],
@@ -72,8 +72,8 @@
 		]
 	},
 	{
-		"Name": "3号光炮",	
-		"ShortName": "3号光炮",
+		"Name": "3号光炮/Cannon 3",	
+		"ShortName": "Cannon 3",
 		"Color": "{default}",
 		"HammerID": 728,
 		"GlowColor": [255,255,255,255],

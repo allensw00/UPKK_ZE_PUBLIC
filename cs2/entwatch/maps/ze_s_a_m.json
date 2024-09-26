@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "土/Earth Magic",
-		"ShortName": "土",
+		"ShortName": "Earth",
 		"Color": "{default}",
 		"HammerID": 7218,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "电环/Lightning Magic",
-		"ShortName": "电环",
+		"ShortName": "Lightning",
 		"Color": "{default}",
 		"HammerID": 7232,
 		"GlowColor": [255,255,255,255],
@@ -54,7 +54,7 @@
 		]
 	},	{
 		"Name": "奶/Heal Magic",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 7271,
 		"GlowColor": [255,255,255,255],
@@ -81,7 +81,7 @@
 	},
 	{
 		"Name": "水/Water Magic",
-		"ShortName": "水",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 7281,
 		"GlowColor": [255,255,255,255],
@@ -108,7 +108,7 @@
 	},
     {
 		"Name": "黑洞/Gravity Magic",
-		"ShortName": "黑洞",
+		"ShortName": "Gravity",
 		"Color": "{default}",
 		"HammerID": 7307,
 		"GlowColor": [255,255,255,255],
@@ -135,7 +135,7 @@
 	},
     {
 		"Name": "风/Tornado Magic",
-		"ShortName": "风",
+		"ShortName": "Tornado",
 		"Color": "{default}",
 		"HammerID": 7337,
 		"GlowColor": [255,255,255,255],
@@ -162,7 +162,7 @@
 	},
     {
 		"Name": "终极/Ultima Magic",
-		"ShortName": "终极",
+		"ShortName": "Ultima",
 		"Color": "{default}",
 		"HammerID": 7368,
 		"GlowColor": [255,255,255,255],
@@ -189,7 +189,7 @@
 	},
     {
 		"Name": "复制/Trace Magic",
-		"ShortName": "复制",
+		"ShortName": "Trace",
 		"Color": "{default}",
 		"HammerID": 7406,
 		"GlowColor": [255,255,255,255],
@@ -216,7 +216,7 @@
 	},
 	{
 		"Name": "火把/Torch",
-		"ShortName": "火把",
+		"ShortName": "Torch",
 		"Color": "{default}",
 		"HammerID": 10860,
 		"GlowColor": [255,255,255,255],
@@ -297,7 +297,7 @@
 	},
     {
 		"Name": "水晶1/S1_Crystal",
-		"ShortName": "水晶1",
+		"ShortName": "Crystal1",
 		"Color": "{default}",
 		"HammerID": 6723,
 		"GlowColor": [255,255,255,255],
@@ -324,7 +324,7 @@
 	},
     {
 		"Name": "水晶5/S5_Crystal",
-		"ShortName": "水晶5",
+		"ShortName": "Crystal5",
 		"Color": "{default}",
 		"HammerID": 10679,
 		"GlowColor": [255,255,255,255],
@@ -378,7 +378,7 @@
 	},
     {
 		"Name": "ZM 冰/ZM Ice",
-		"ShortName": "ZM 冰",
+		"ShortName": "ZM Ice",
 		"Color": "{default}",
 		"HammerID": 11537,
 		"GlowColor": [255,255,255,255],
@@ -414,7 +414,7 @@
 	},
     {
 		"Name": "ZM 黑洞/ZM Gravity",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Gravity",
 		"Color": "{default}",
 		"HammerID": 11542,
 		"GlowColor": [255,255,255,255],
@@ -450,7 +450,7 @@
 	},
     {
 		"Name": "ZM 隐身/ZM Stealth",
-		"ShortName": "ZM 隐身",
+		"ShortName": "ZM Stealth",
 		"Color": "{default}",
 		"HammerID": 11543,
 		"GlowColor": [255,255,255,255],
@@ -486,7 +486,7 @@
 	},
     {
 		"Name": "ZM 护盾/ZM Shield",
-		"ShortName": "ZM 护盾",
+		"ShortName": "ZM Shield",
 		"Color": "{default}",
 		"HammerID": 11544,
 		"GlowColor": [255,255,255,255],

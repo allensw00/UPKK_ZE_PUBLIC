@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 19424,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
     {
 		"Name": "榴弹枪/Grenade Launcher",
-		"ShortName": "榴弹枪",
+		"ShortName": "Nade",
 		"Color": "{default}",
 		"HammerID": 19443,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "地雷/Claymore Mines",
-		"ShortName": "地雷",
+		"ShortName": "Mines",
 		"Color": "{default}",
 		"HammerID": 19465,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "弹药箱/Ammo Dispenser",
-		"ShortName": "弹药箱",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 19734,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "加特林/Minigun",
-		"ShortName": "加特林",
+		"ShortName": "Minigun",
 		"Color": "{default}",
 		"HammerID": 19531,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "样本/Alien Sample",
-		"ShortName": "样本",
+		"ShortName": "Sample",
 		"Color": "{default}",
 		"HammerID": 19535,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "喷火器/Flamethrower",
-		"ShortName": "喷火器",
+		"ShortName": "Flame",
 		"Color": "{default}",
 		"HammerID": 19553,
 		"GlowColor": [255,255,255,255],
@@ -190,7 +190,7 @@
 	},
     {
 		"Name": "装置/Alien Device",
-		"ShortName": "装置",
+		"ShortName": "Device",
 		"Color": "{default}",
 		"HammerID": 19560,
 		"GlowColor": [255,255,255,255],
@@ -217,7 +217,7 @@
 	},
     {
 		"Name": "推力枪/Push Gun",
-		"ShortName": "推力枪",
+		"ShortName": "Push",
 		"Color": "{default}",
 		"HammerID": 19569,
 		"GlowColor": [255,255,255,255],
@@ -244,7 +244,7 @@
 	},
     {
 		"Name": "脉冲器/Impulsor",
-		"ShortName": "脉冲器",
+		"ShortName": "Impulse",
 		"Color": "{default}",
 		"HammerID": 19605,
 		"GlowColor": [255,255,255,255],
@@ -271,7 +271,7 @@
 	},
     {
 		"Name": "高斯枪/Gauss Rifle",
-		"ShortName": "高斯枪",
+		"ShortName": "Gauss",
 		"Color": "{default}",
 		"HammerID": 19515,
 		"GlowColor": [255,255,255,255],

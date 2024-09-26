@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "手电筒1/Flashlight1",
-		"ShortName": "手电筒1",
+		"ShortName": "Light1",
 		"Color": "{default}",
 		"HammerID": 5687,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
 	{
 		"Name": "手电筒2/Flashlight2",
-		"ShortName": "手电筒2",
+		"ShortName": "Light2",
 		"Color": "{default}",
 		"HammerID": 5709,
 		"GlowColor": [255,255,255,255],

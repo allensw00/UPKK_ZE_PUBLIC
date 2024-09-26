@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "ZM 生命分离",
-		"ShortName": "ZM 生命分离",
+		"Name": "ZM Life Tap",
+		"ShortName": "ZM LifeTap",
 		"Color": "{default}",
 		"HammerID": 1895,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
     {
-		"Name": "埃洛斯的诅咒",
-		"ShortName": "埃洛斯的诅咒",
+		"Name": "Elo's Curse",
+		"ShortName": "Curse",
 		"Color": "{default}",
 		"HammerID": 2518,
 		"GlowColor": [255,255,255,255],
@@ -54,8 +54,8 @@
 		]
 	},
     {
-		"Name": "治疗法杖",
-		"ShortName": "治疗法杖",
+		"Name": "Heal",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 3399,
 		"GlowColor": [255,255,255,255],
@@ -81,8 +81,8 @@
 		]
 	},
     {
-		"Name": "暴风雪",
-		"ShortName": "暴风雪",
+		"Name": "Blizzard",
+		"ShortName": "Blizzard",
 		"Color": "{default}",
 		"HammerID": 3488,
 		"GlowColor": [255,255,255,255],
@@ -108,8 +108,8 @@
 		]
 	},
     {
-		"Name": "寒霜剑",
-		"ShortName": "寒霜剑",
+		"Name": "Frost Path",
+		"ShortName": "Frost",
 		"Color": "{default}",
 		"HammerID": 3480,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
     {
-		"Name": "圣盾",
-		"ShortName": "圣盾",
+		"Name": "Shield",
+		"ShortName": "Shield",
 		"Color": "{default}",
 		"HammerID": 3508,
 		"GlowColor": [255,255,255,255],
@@ -162,8 +162,8 @@
 		]
 	},
     {
-		"Name": "寒风",
-		"ShortName": "寒风",
+		"Name": "Ice Wind",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 3413,
 		"GlowColor": [255,255,255,255],
@@ -189,8 +189,8 @@
 		]
 	},
     {
-		"Name": "ZM 冰环",
-		"ShortName": "ZM 冰环",
+		"Name": "ZM Circle of Winter",
+		"ShortName": "ZM Winter",
 		"Color": "{default}",
 		"HammerID": 2889,
 		"GlowColor": [255,255,255,255],
@@ -216,8 +216,8 @@
 		]
 	},
     {
-		"Name": "ZM 冰刺",
-		"ShortName": "ZM 冰刺",
+		"Name": "ZM Chill Spike",
+		"ShortName": "ZM Spike",
 		"Color": "{default}",
 		"HammerID": 3400,
 		"GlowColor": [255,255,255,255],
@@ -243,8 +243,8 @@
 		]
 	},
     {
-		"Name": "恶魔契约",
-		"ShortName": "恶魔契约",
+		"Name": "Devilian",
+		"ShortName": "Devil",
 		"Color": "{default}",
 		"HammerID": 3547,
 		"GlowColor": [255,255,255,255],
@@ -270,8 +270,8 @@
 		]
 	},
     {
-		"Name": "重力弓",
-		"ShortName": "重力弓",
+		"Name": "Gravity Bow",
+		"ShortName": "Bow",
 		"Color": "{default}",
 		"HammerID": 4207,
 		"GlowColor": [255,255,255,255],
@@ -297,8 +297,8 @@
 		]
 	},
     {
-		"Name": "冰垒",
-		"ShortName": "冰垒",
+		"Name": "Ice Cube",
+		"ShortName": "Cube",
 		"Color": "{default}",
 		"HammerID": 3616,
 		"GlowColor": [255,255,255,255],
@@ -324,8 +324,8 @@
 		]
 	},
     {
-		"Name": "精灵法师",
-		"ShortName": "精灵法师",
+		"Name": "Elf",
+		"ShortName": "Elf",
 		"Color": "{default}",
 		"HammerID": 2120,
 		"GlowColor": [255,255,255,255],
@@ -351,8 +351,8 @@
 		]
 	},
     {
-		"Name": "ZM 雷沃尔熊人",
-		"ShortName": "ZM 雷沃尔熊人",
+		"Name": "ZM Monster Grzzly",
+		"ShortName": "ZM Grzzly",
 		"Color": "{default}",
 		"HammerID": 2999,
 		"GlowColor": [255,255,255,255],
@@ -378,8 +378,8 @@
 		]
 	},
     {
-		"Name": "冰垒",
-		"ShortName": "冰垒",
+		"Name": "Ice Barrier",
+		"ShortName": "Barrier",
 		"Color": "{default}",
 		"HammerID": 3616,
 		"GlowColor": [255,255,255,255],
@@ -405,8 +405,8 @@
 		]
 	},
     {
-		"Name": "圣女",
-		"ShortName": "圣女",
+		"Name": "Saint",
+		"ShortName": "Saint",
 		"Color": "{default}",
 		"HammerID": 16038,
 		"GlowColor": [255,255,255,255],
@@ -432,8 +432,8 @@
 		]
 	},
     {
-		"Name": "ZM 隐秘老者",
-		"ShortName": "ZM 隐秘老者",
+		"Name": "ZM Secret Elderly",
+		"ShortName": "ZM Elder",
 		"Color": "{default}",
 		"HammerID": 16072,
 		"GlowColor": [255,255,255,255],

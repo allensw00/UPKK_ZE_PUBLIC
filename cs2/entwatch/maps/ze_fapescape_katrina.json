@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "微信/Wechat",
-		"ShortName": "微信",
+		"ShortName": "Wechat",
 		"Color": "{default}",
 		"HammerID": 27494,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 27706,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "剑/Sword",
-		"ShortName": "剑",
+		"ShortName": "Sword",
 		"Color": "{default}",
 		"HammerID": 27964,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "地雷/Mines",
-		"ShortName": "地雷",
+		"ShortName": "Mines",
 		"Color": "{default}",
 		"HammerID": 28069,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "篮球/Basketball",
-		"ShortName": "篮球",
+		"ShortName": "Basketball",
 		"Color": "{default}",
 		"HammerID": 28106,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "喷火器/Flame",
-		"ShortName": "喷火器",
+		"ShortName": "Flame",
 		"Color": "{default}",
 		"HammerID": 28139,
 		"GlowColor": [255,255,255,255],
@@ -189,8 +189,8 @@
 		]
 	},
     {
-		"Name": "推力枪/Push",
-		"ShortName": "推力枪",
+		"Name": "推力枪/PushGun",
+		"ShortName": "Push",
 		"Color": "{default}",
 		"HammerID": 28178,
 		"GlowColor": [255,255,255,255],
@@ -217,7 +217,7 @@
 	},
     {
 		"Name": "乐高墙/Lego Wall",
-		"ShortName": "乐高墙",
+		"ShortName": "Wall",
 		"Color": "{default}",
 		"HammerID": 28246,
 		"GlowColor": [255,255,255,255],
@@ -244,7 +244,7 @@
 	},
     {
 		"Name": "火箭筒/RPG",
-		"ShortName": "火箭筒",
+		"ShortName": "RPG",
 		"Color": "{default}",
 		"HammerID": 28282,
 		"GlowColor": [255,255,255,255],
@@ -271,7 +271,7 @@
 	},
     {
 		"Name": "监狱/Jail Item",
-		"ShortName": "监狱",
+		"ShortName": "Jail",
 		"Color": "{default}",
 		"HammerID": 28321,
 		"GlowColor": [255,255,255,255],
@@ -298,7 +298,7 @@
 	},
     {
 		"Name": "弹药箱/Ammo Box",
-		"ShortName": "弹药箱",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 27751,
 		"GlowColor": [255,255,255,255],

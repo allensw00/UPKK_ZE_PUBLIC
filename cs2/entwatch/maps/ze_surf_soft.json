@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "冰",	
-		"ShortName": "冰",
+		"Name": "冰/Ice",	
+		"ShortName": "Ice",
 		"Color": "{default}",
 		"HammerID": 510,
 		"GlowColor": [255,255,255,255],

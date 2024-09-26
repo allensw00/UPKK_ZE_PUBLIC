@@ -28,7 +28,7 @@
 	},
     {
 		"Name": "加农炮/EyeTech Cannon",
-		"ShortName": "加农炮",
+		"ShortName": "Cannon",
 		"Color": "{default}",
 		"HammerID": 3742,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "乐高墙/Lego Maker",
-		"ShortName": "乐高墙",
+		"ShortName": "Wall",
 		"Color": "{default}",
 		"HammerID": 3657,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "榴弹枪/EyeTech Launcher",
-		"ShortName": "榴弹枪",
+		"ShortName": "Launcher",
 		"Color": "{default}",
 		"HammerID": 3710,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "喷火器/Flamethrower",
-		"ShortName": "喷火器",
+		"ShortName": "Flame",
 		"Color": "{default}",
 		"HammerID": 3686,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "推力枪/Push Gun",
-		"ShortName": "推力枪",
+		"ShortName": "Push",
 		"Color": "{default}",
 		"HammerID": 3664,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "电/Electro Gun",
-		"ShortName": "电",
+		"ShortName": "Electro",
 		"Color": "{default}",
 		"HammerID": 3673,
 		"GlowColor": [255,255,255,255],
@@ -194,7 +194,7 @@
 	},
     {
 		"Name": "弹药/Ammo Box",
-		"ShortName": "弹药",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 3699,
 		"GlowColor": [255,255,255,255],
@@ -221,7 +221,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 3640,
 		"GlowColor": [255,255,255,255],
@@ -252,7 +252,7 @@
 	},
     {
 		"Name": "地雷/Pipe Bombs",
-		"ShortName": "地雷",
+		"ShortName": "Bomb",
 		"Color": "{default}",
 		"HammerID": 3717,
 		"GlowColor": [255,255,255,255],
@@ -279,7 +279,7 @@
 	},
     {
 		"Name": "香蕉/Banana",
-		"ShortName": "香蕉",
+		"ShortName": "Banana",
 		"Color": "{default}",
 		"HammerID": 4377,
 		"GlowColor": [255,255,255,255],

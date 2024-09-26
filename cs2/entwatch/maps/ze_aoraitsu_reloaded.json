@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "OBJ",	
-		"ShortName": "油桶",
+		"Name": "OBJ Barrel",	
+		"ShortName": "Barrel",
 		"Color": "{default}",
 		"HammerID": 3751,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "方块墙",
-		"ShortName": "方块墙",
+		"Name": "Wall Block",
+		"ShortName": "Wall",
 		"Color": "{default}",
 		"HammerID": 1220,
 		"GlowColor": [255,255,255,255],
@@ -54,8 +54,8 @@
 		]
 	},
 	{
-		"Name": "推力",
-		"ShortName": "推力",
+		"Name": "Push",
+		"ShortName": "Push",
 		"Color": "{default}",
 		"HammerID": 3375,
 		"GlowColor": [255,255,255,255],
@@ -81,8 +81,8 @@
 		]
 	},
 	{
-		"Name": "定身球",
-		"ShortName": "定身球",
+		"Name": "Ball",
+		"ShortName": "Ball",
 		"Color": "{default}",
 		"HammerID": 5457,
 		"GlowColor": [255,255,255,255],
@@ -108,8 +108,8 @@
 		]
 	},
 	{
-		"Name": "护盾",
-		"ShortName": "护盾",
+		"Name": "Shield",
+		"ShortName": "Shield",
 		"Color": "{default}",
 		"HammerID": 3296,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
 	{
-		"Name": "伤害球",
-		"ShortName": "伤害球",
+		"Name": "ZM Hurt",
+		"ShortName": "ZM Hurt",
 		"Color": "{default}",
 		"HammerID": 4083,
 		"GlowColor": [255,255,255,255],
@@ -162,8 +162,8 @@
 		]
 	},
 	{
-		"Name": "ZM冰",
-		"ShortName": "ZM冰",
+		"Name": "ZM Ice",
+		"ShortName": "ZM Ice",
 		"Color": "{default}",
 		"HammerID": 3213,
 		"GlowColor": [255,255,255,255],
@@ -189,8 +189,8 @@
 		]
 	},
 	{
-		"Name": "ZM奶",
-		"ShortName": "ZM奶",
+		"Name": "ZM Heal",
+		"ShortName": "ZM Heal",
 		"Color": "{default}",
 		"HammerID": 2709,
 		"GlowColor": [255,255,255,255],
@@ -216,8 +216,8 @@
 		]
 	},
 	{
-		"Name": "ZM秒杀",
-		"ShortName": "ZM秒杀",
+		"Name": "ZM Kill",
+		"ShortName": "ZM Kill",
 		"Color": "{default}",
 		"HammerID": 22055,
 		"GlowColor": [255,255,255,255],
@@ -243,8 +243,8 @@
 		]
 	},
 	{
-		"Name": "治疗",
-		"ShortName": "奶",
+		"Name": "Heal",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 1310,
 		"GlowColor": [255,255,255,255],
@@ -270,8 +270,8 @@
 		]
 	},
 	{
-		"Name": "人类1号传送",
-		"ShortName": "传送1",
+		"Name": "Human Teleport 1",
+		"ShortName": "TP 1",
 		"Color": "{default}",
 		"HammerID": 2595,
 		"GlowColor": [255,255,255,255],
@@ -297,8 +297,8 @@
 		]
 	},
 	{
-		"Name": "人类2号传送",
-		"ShortName": "传送2",
+		"Name": "Human Teleport 2",
+		"ShortName": "TP 2",
 		"Color": "{default}",
 		"HammerID": 4092,
 		"GlowColor": [255,255,255,255],
@@ -324,8 +324,8 @@
 		]
 	},
 	{
-		"Name": "ZM1号传送",
-		"ShortName": "ZM传送1",
+		"Name": "Zombie Teleport 1",
+		"ShortName": "ZM TP1",
 		"Color": "{default}",
 		"HammerID": 3687,
 		"GlowColor": [255,255,255,255],
@@ -351,8 +351,8 @@
 		]
 	},
 	{
-		"Name": "ZM2号传送",
-		"ShortName": "ZM传送2",
+		"Name": "Zombie Teleport 2",
+		"ShortName": "ZM TP2",
 		"Color": "{default}",
 		"HammerID": 2302,
 		"GlowColor": [255,255,255,255],

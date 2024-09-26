@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "暴雪/Blizzard",
-		"ShortName": "暴雪",
+		"ShortName": "Blizzard",
 		"Color": "{default}",
 		"HammerID": 16257,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
 	{
 		"Name": "水花/Water",
-		"ShortName": "水花",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 16326,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 	},
 	{
 		"Name": "雷电/Thunder",
-		"ShortName": "雷电",
+		"ShortName": "Thunder",
 		"Color": "{default}",
 		"HammerID": 16340,
 		"GlowColor": [255,255,255,255],
@@ -107,7 +107,7 @@
 	},
 	{
 		"Name": "火焰/Fire",
-		"ShortName": "火焰",
+		"ShortName": "Fire",
 		"Color": "{default}",
 		"HammerID": 16392,
 		"GlowColor": [255,255,255,255],
@@ -151,7 +151,7 @@
 	},
 	{
 		"Name": "疗伤/Cure",
-		"ShortName": "疗伤",
+		"ShortName": "Cure",
 		"Color": "{default}",
 		"HammerID": 16494,
 		"GlowColor": [255,255,255,255],
@@ -195,7 +195,7 @@
 	},
 	{
 		"Name": "劲风/Aero",
-		"ShortName": "劲风",
+		"ShortName": "Aero",
 		"Color": "{default}",
 		"HammerID": 16851,
 		"GlowColor": [255,255,255,255],
@@ -257,7 +257,7 @@
 	},
 	{
 		"Name": "圣灵药2/Elixir2",
-		"ShortName": "圣灵药2",
+		"ShortName": "Elixir2",
 		"Color": "{default}",
 		"HammerID": 16902,
 		"GlowColor": [255,255,255,255],
@@ -288,7 +288,7 @@
 	},
 	{
 		"Name": "光明1/Dia1",
-		"ShortName": "光明1",
+		"ShortName": "Dia1",
 		"Color": "{default}",
 		"HammerID": 16913,
 		"GlowColor": [255,255,255,255],
@@ -319,7 +319,7 @@
 	},
 	{
 		"Name": "光明2/Dia2",
-		"ShortName": "光明2",
+		"ShortName": "Dia2",
 		"Color": "{default}",
 		"HammerID": 16921,
 		"GlowColor": [255,255,255,255],
@@ -350,7 +350,7 @@
 	},
 	{
 		"Name": "恩惠/Benefic",
-		"ShortName": "恩惠",
+		"ShortName": "Benefic",
 		"Color": "{default}",
 		"HammerID": 17116,
 		"GlowColor": [255,255,255,255],
@@ -394,7 +394,7 @@
 	},
 	{
 		"Name": "召唤/Summons",
-		"ShortName": "召唤",
+		"ShortName": "Summon",
 		"Color": "{default}",
 		"HammerID": 17212,
 		"GlowColor": [255,255,255,255],
@@ -425,7 +425,7 @@
 	},
 	{
 		"Name": "幻影/Elusive",
-		"ShortName": "幻影",
+		"ShortName": "Elusive",
 		"Color": "{default}",
 		"HammerID": 17295,
 		"GlowColor": [255,255,255,255],
@@ -456,7 +456,7 @@
 	},
 	{
 		"Name": "先驱/Avant",
-		"ShortName": "先驱",
+		"ShortName": "Avant",
 		"Color": "{default}",
 		"HammerID": 17307,
 		"GlowColor": [255,255,255,255],
@@ -487,7 +487,7 @@
 	},
 	{
 		"Name": "圣剑/HolySword",
-		"ShortName": "圣剑",
+		"ShortName": "HolySword",
 		"Color": "{default}",
 		"HammerID": 17322,
 		"GlowColor": [255,255,255,255],
@@ -518,7 +518,7 @@
 	},
 	{
 		"Name": "暗剑/DarkSword",
-		"ShortName": "暗剑",
+		"ShortName": "DarkSword",
 		"Color": "{default}",
 		"HammerID": 17337,
 		"GlowColor": [255,255,255,255],
@@ -549,7 +549,7 @@
 	},
 	{
 		"Name": "ZM 护罩/Zombie Ward",
-		"ShortName": "ZM 护罩",
+		"ShortName": "ZM Ward",
 		"Color": "{default}",
 		"HammerID": 16604,
 		"GlowColor": [255,255,255,255],
@@ -580,7 +580,7 @@
 	},
 	{
 		"Name": "ZM 混乱/Zombie Frazzle",
-		"ShortName": "ZM 混乱",
+		"ShortName": "ZM Frazzle",
 		"Color": "{default}",
 		"HammerID": 16618,
 		"GlowColor": [255,255,255,255],
@@ -611,7 +611,7 @@
 	},
 	{
 		"Name": "ZM 绝望/Zombie Despair",
-		"ShortName": "ZM 绝望",
+		"ShortName": "ZM Despair",
 		"Color": "{default}",
 		"HammerID": 16640,
 		"GlowColor": [255,255,255,255],
@@ -642,7 +642,7 @@
 	},
 	{
 		"Name": "ZM 污秽/Zombie Foul",
-		"ShortName": "ZM 污秽",
+		"ShortName": "ZM Foul",
 		"Color": "{default}",
 		"HammerID": 16698,
 		"GlowColor": [255,255,255,255],
@@ -673,7 +673,7 @@
 	},
 	{
 		"Name": "ZM 冲击/Zombie Impact",
-		"ShortName": "ZM 冲击",
+		"ShortName": "ZM Impact",
 		"Color": "{default}",
 		"HammerID": 16718,
 		"GlowColor": [255,255,255,255],
@@ -704,7 +704,7 @@
 	},
 	{
 		"Name": "ZM 黑洞/Zombie Gravity",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Gravity",
 		"Color": "{default}",
 		"HammerID": 16741,
 		"GlowColor": [255,255,255,255],
@@ -735,7 +735,7 @@
 	},
 	{
 		"Name": "ZM 阴影/Zombie Umbral",
-		"ShortName": "ZM 阴影",
+		"ShortName": "ZM Umbral",
 		"Color": "{default}",
 		"HammerID": 16809,
 		"GlowColor": [255,255,255,255],
@@ -779,7 +779,7 @@
 	},
 	{
 		"Name": "ZM 吸取/Zombie Siphon",
-		"ShortName": "ZM 吸取",
+		"ShortName": "ZM Siphon",
 		"Color": "{default}",
 		"HammerID": 16839,
 		"GlowColor": [255,255,255,255],
@@ -810,7 +810,7 @@
 	},
 	{
 		"Name": "ZM 邪咒/Zombie Malefic",
-		"ShortName": "ZM 邪咒",
+		"ShortName": "ZM Malefic",
 		"Color": "{default}",
 		"HammerID": 17073,
 		"GlowColor": [255,255,255,255],

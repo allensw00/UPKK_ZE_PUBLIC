@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "传送门/Kohh (Teleport)",
-		"ShortName": "传送门",
+		"ShortName": "Teleport",
 		"Color": "{default}",
 		"HammerID": 3155,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
     {
 		"Name": "水/Water",
-		"ShortName": "水",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 5069,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "风/Wind",
-		"ShortName": "风",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 5128,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "礼物(弹药)/Present(Ammo)",
-		"ShortName": "礼物(弹药)",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 10902,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "电/Electric",
-		"ShortName": "电",
+		"ShortName": "Electric",
 		"Color": "{default}",
 		"HammerID": 5150,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "冰/Ice",
-		"ShortName": "冰",
+		"ShortName": "Ice",
 		"Color": "{default}",
 		"HammerID": 5161,
 		"GlowColor": [255,255,255,255],
@@ -163,7 +163,7 @@
 	},
     {
 		"Name": "火/Fire",
-		"ShortName": "火",
+		"ShortName": "Fire",
 		"Color": "{default}",
 		"HammerID": 5169,
 		"GlowColor": [255,255,255,255],
@@ -190,7 +190,7 @@
 	},
     {
 		"Name": "金轮/Gold",
-		"ShortName": "金轮",
+		"ShortName": "Gold",
 		"Color": "{default}",
 		"HammerID": 5181,
 		"GlowColor": [255,255,255,255],
@@ -217,7 +217,7 @@
 	},
     {
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 5191,
 		"GlowColor": [255,255,255,255],
@@ -244,7 +244,7 @@
 	},
     {
 		"Name": "ZM 虚弱/ZM Shackle",
-		"ShortName": "ZM 虚弱",
+		"ShortName": "ZM Shackle",
 		"Color": "{default}",
 		"HammerID": 4948,
 		"GlowColor": [255,255,255,255],
@@ -271,7 +271,7 @@
 	},
     {
 		"Name": "ZM 黑洞/ZM Lure",
-		"ShortName": "ZM 黑洞",
+		"ShortName": "ZM Lure",
 		"Color": "{default}",
 		"HammerID": 4988,
 		"GlowColor": [255,255,255,255],
@@ -298,7 +298,7 @@
 	},
     {
 		"Name": "ZM 盾/ZM Shield",
-		"ShortName": "ZM 盾",
+		"ShortName": "ZM Shield",
 		"Color": "{default}",
 		"HammerID": 5001,
 		"GlowColor": [255,255,255,255],
@@ -325,7 +325,7 @@
 	},
     {
 		"Name": "ZM 加速/ZM Rise",
-		"ShortName": "ZM 加速",
+		"ShortName": "ZM Rise",
 		"Color": "{default}",
 		"HammerID": 5011,
 		"GlowColor": [255,255,255,255],
@@ -352,7 +352,7 @@
 	},
     {
 		"Name": "ZM 冰火/ZM IceFire",
-		"ShortName": "ZM 冰火",
+		"ShortName": "ZM IceFire",
 		"Color": "{default}",
 		"HammerID": 5023,
 		"GlowColor": [255,255,255,255],
@@ -379,7 +379,7 @@
 	},
     {
 		"Name": "ZM 死宣/ZM End",
-		"ShortName": "ZM 死宣",
+		"ShortName": "ZM End",
 		"Color": "{default}",
 		"HammerID": 5036,
 		"GlowColor": [255,255,255,255],

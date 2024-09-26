@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "奶/Heal",
-		"ShortName": "奶",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 4733,
 		"GlowColor": [255,255,255,255],
@@ -32,7 +32,7 @@
 	},
     {
 		"Name": "电/electro",
-		"ShortName": "电",
+		"ShortName": "Electro",
 		"Color": "{default}",
 		"HammerID": 4739,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 	},
     {
 		"Name": "毁灭巨炮/Cannon Ultimate",
-		"ShortName": "毁灭巨炮",
+		"ShortName": "Cannon",
 		"Color": "{default}",
 		"HammerID": 4970,
 		"GlowColor": [255,255,255,255],
@@ -94,7 +94,7 @@
 	},
     {
 		"Name": "静止装置/Stopper Magick",
-		"ShortName": "静止装置",
+		"ShortName": "Stopper",
 		"Color": "{default}",
 		"HammerID": 4988,
 		"GlowColor": [255,255,255,255],
@@ -125,7 +125,7 @@
 	},
     {
 		"Name": "地雷/Mines",
-		"ShortName": "地雷",
+		"ShortName": "Mines",
 		"Color": "{default}",
 		"HammerID": 5019,
 		"GlowColor": [255,255,255,255],
@@ -156,7 +156,7 @@
 	},
     {
 		"Name": "喷火器/Fire Magick",
-		"ShortName": "喷火器",
+		"ShortName": "Fire",
 		"Color": "{default}",
 		"HammerID": 5038,
 		"GlowColor": [255,255,255,255],
@@ -187,7 +187,7 @@
 	},
     {
 		"Name": "弹药/Ammo",
-		"ShortName": "弹药",
+		"ShortName": "Ammo",
 		"Color": "{default}",
 		"HammerID": 5594,
 		"GlowColor": [255,255,255,255],

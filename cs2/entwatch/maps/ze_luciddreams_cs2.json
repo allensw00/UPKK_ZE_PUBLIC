@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "盾",	
-		"ShortName": "盾",
+		"Name": "盾/Shield",	
+		"ShortName": "Shield",
 		"Color": "{default}",
 		"HammerID": 134,
 		"GlowColor": [255,255,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "风",
-		"ShortName": "风",
+		"Name": "风/Wind",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 360,
 		"GlowColor": [255,255,255,255],

@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "治疗/Heal",
-		"ShortName": "治疗",
+		"ShortName": "Heal",
 		"Color": "{default}",
 		"HammerID": 2268,
 		"GlowColor": [255,255,255,255],
@@ -28,7 +28,7 @@
 	},
 	{
 		"Name": "狂怒/Rage",
-		"ShortName": "狂怒",
+		"ShortName": "Rage",
 		"Color": "{default}",
 		"HammerID": 2267,
 		"GlowColor": [255,255,255,255],
@@ -55,7 +55,7 @@
 	},
     {
 		"Name": "水/Water",
-		"ShortName": "水",
+		"ShortName": "Water",
 		"Color": "{default}",
 		"HammerID": 2270,
 		"GlowColor": [255,255,255,255],
@@ -82,7 +82,7 @@
 	},
     {
 		"Name": "电/Electro",
-		"ShortName": "电",
+		"ShortName": "Electro",
 		"Color": "{default}",
 		"HammerID": 2271,
 		"GlowColor": [255,255,255,255],
@@ -109,7 +109,7 @@
 	},
     {
 		"Name": "风/Wind",
-		"ShortName": "风",
+		"ShortName": "Wind",
 		"Color": "{default}",
 		"HammerID": 2266,
 		"GlowColor": [255,255,255,255],
@@ -136,7 +136,7 @@
 	},
     {
 		"Name": "加速/Speed",
-		"ShortName": "加速",
+		"ShortName": "Speed",
 		"Color": "{default}",
 		"HammerID": 6742,
 		"GlowColor": [255,255,255,255],
