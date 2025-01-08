@@ -2005,7 +2005,7 @@
 	"ze_surf_sky_islands"
 	{
 		"workshop_id"		"3304434521"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_surf_sky_islands"
 		"updatedname"		"ze_surf_sky_islands"
 		"search"		"浮岛滑翔"
@@ -2885,7 +2885,7 @@
 	"ze_obj_goosestep_a1"
 	{
 		"workshop_id"		"3367233005"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_obj_goosestep_a1"
 		"updatedname"		"ze_obj_goosestep_a1"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
