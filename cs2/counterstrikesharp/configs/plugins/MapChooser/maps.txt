@@ -345,7 +345,7 @@
 	"zm_vents_remake_m"
 	{
 		"workshop_id" "3174849019"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "zm_vents_remake_m"
 		"updatedname" "zm_vents_remake_m"
 		"RestrictedTimes" "19:00-22:00"
@@ -1318,7 +1318,7 @@
 	"ze_pokemon_kanto_v1"
 	{
 		"workshop_id" "3100100976"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_pokemon_kanto_v1"
 		"updatedname" "ze_pokemon_kanto_v1"
 	}
@@ -3798,7 +3798,7 @@
 	"ze_emiya"
 	{
 		"workshop_id" "3369548103"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_emiya"
 		"updatedname" "ze_emiya"
 		"OnlyNominate" "1"
