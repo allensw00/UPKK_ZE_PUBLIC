@@ -2300,7 +2300,7 @@
 	"ze_skzroom"
 	{
 		"workshop_id" "3291260013"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_skzroom"
 		"updatedname" "ze_skzroom"
 	}
@@ -2314,7 +2314,7 @@
 	"ze_silenthill_pt"
 	{
 		"workshop_id" "3284621426"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_silenthill_pt"
 		"updatedname" "ze_silenthill_pt"
 		"search" "寂静岭;PT"
@@ -2664,7 +2664,7 @@
 	"ze_ny_marathon_cs2"
 	{
 		"workshop_id" "3321297949"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_ny_marathon_cs2"
 		"updatedname" "ze_ny_marathon_cs2"
 	}
@@ -2760,7 +2760,7 @@
 	"ze_rt4_hessel_valley"
 	{
 		"workshop_id" "3331546631"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_rt4_hessel_valley"
 		"updatedname" "ze_rt4_hessel_valley"
 		"OnlyNominate" "1"
@@ -2968,7 +2968,7 @@
 	"ze_tear_of_tide"
 	{
 		"workshop_id" "3355621066"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_tear_of_tide"
 		"updatedname" "ze_tear_of_tide"
 		"OnlyNominate" "1"
@@ -2976,7 +2976,7 @@
 	"ze_quiver_cs2"
 	{
 		"workshop_id" "3355818753"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_quiver_cs2"
 		"updatedname" "ze_quiver_cs2"
 		"OnlyNominate" "1"
@@ -3040,7 +3040,7 @@
 	"ze_embertwin_v1"
 	{
 		"workshop_id" "3357784018"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_embertwin_v1"
 		"updatedname" "ze_embertwin_v1"
 		"OnlyNominate" "1"
